@@ -1,0 +1,1 @@
+I have delted the old folder in my laptop and created the new one named git-pg1 and cloned the repo using vscode. It created the lpal direcotry inside the git-pg1.  I am creaing this text1 file inside the lpal and will push it to check if everything is working or not.
